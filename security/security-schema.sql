@@ -1,0 +1,5 @@
+-- CREATE SCHEMA
+USE [ECommerce]
+GO
+CREATE SCHEMA bkp
+GO

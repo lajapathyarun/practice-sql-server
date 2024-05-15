@@ -1,0 +1,2 @@
+-- AZURE SQL DATABASE
+--Server=tcp:[server_name].database.windows.net,1433;Initial Catalog=[database_name];Persist Security Info=False;User ID=[user_id];Password=[password];MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
